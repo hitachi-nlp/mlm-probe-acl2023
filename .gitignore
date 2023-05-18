@@ -31,7 +31,6 @@ Temporary Items
 __pycache__
 .python-version
 transformers
-*.sh
 *checkpoint.ipynb
 .ipynb_checkpoints
 ~
