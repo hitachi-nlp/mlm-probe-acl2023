@@ -1,0 +1,10 @@
+transformers==4.18.0
+datasets
+tensorflow
+spacy
+scipy
+sklearn
+seaborn
+apache_beam
+tensorflow
+tensorflow-datasets

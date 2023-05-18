@@ -1,0 +1,5 @@
+*
+!.gitignore
+!summary.md
+!output
+!output/**
