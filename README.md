@@ -348,5 +348,19 @@ Our pretrained weights are available on the HuggingFace Hub:
 * [MLM](https://huggingface.co/hitachi-nlp/roberta-base_mlm_acl2023)
 
 
+## Citation
+```
+@inproceedings{yamaguchi-etal-2023-how,
+      title={How does the task complexity of masked pretraining objectives affect downstream performance?}, 
+      author={Atsuki Yamaguchi and Hiroaki Ozaki and Terufumi Morishita and Gaku Morio and Yasuhiro Sogawa},
+      year={2023},
+      booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
+      month = July,
+      year = "2022",
+      address = "Toronto, Canada",
+      publisher = "Association for Computational Linguistics",
+}
+```
+
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a> unless specified.
