@@ -353,10 +353,9 @@ Our pretrained weights are available on the HuggingFace Hub:
 @inproceedings{yamaguchi-etal-2023-how,
       title={How does the task complexity of masked pretraining objectives affect downstream performance?}, 
       author={Atsuki Yamaguchi and Hiroaki Ozaki and Terufumi Morishita and Gaku Morio and Yasuhiro Sogawa},
-      year={2023},
       booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
       month = July,
-      year = "2022",
+      year = "2023",
       address = "Toronto, Canada",
       publisher = "Association for Computational Linguistics",
 }
